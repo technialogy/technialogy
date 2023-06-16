@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @technialogy
+- 👋 Hi, I’m @technialogy (nia)
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on any websites you need extra help building
-- 📫 How to reach me: technialogy@gmail.com, twitter.com/technialogy
 
 <!---
 technialogy/technialogy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
